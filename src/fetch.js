@@ -2,6 +2,17 @@ const { DateTime } = require('luxon');
 
 const FEED_URL = 'https://raw.githubusercontent.com/openfootball/world-cup.json/master/2026/en/rounds.json';
 
+const ESPN_URL = 'https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260611-20260719&limit=200';
+
+const SLUG_TO_STAGE = {
+  'group-stage': 'Group Stage',
+  'round-of-32': 'Round of 32',
+  'round-of-16': 'Round of 16',
+  'quarterfinals': 'Quarterfinals',
+  'semifinals': 'Semifinals',
+  'final': 'Final',
+};
+
 const VENUE_TIMEZONES = {
   'metlife': 'America/New_York',
   'lincoln-financial': 'America/New_York',
@@ -71,28 +82,55 @@ function normalizeMatches(rawData) {
   return matches;
 }
 
+function normalizeESPNData(espnData) {
+  const events = espnData.events || [];
+  return events.map((event, index) => {
+    const comp = (event.competitions || [])[0] || {};
+    const competitors = comp.competitors || [];
+    const home = competitors.find(c => c.homeAway === 'home') || {};
+    const away = competitors.find(c => c.homeAway === 'away') || {};
+    const venue = comp.venue || {};
+    const address = venue.address || {};
+    const slug = (event.season || {}).slug || '';
+    const stage = SLUG_TO_STAGE[slug] || slug || 'TBD';
+    const kickoffUTC = event.date ? new Date(event.date).toISOString() : 'TBD';
+
+    return {
+      matchNumber: index + 1,
+      stage,
+      group: null,
+      homeTeam: (home.team || {}).displayName || 'TBD',
+      awayTeam: (away.team || {}).displayName || 'TBD',
+      kickoffUTC,
+      venue: venue.fullName || 'TBD',
+      city: address.city || 'TBD',
+      country: address.country || 'TBD',
+    };
+  });
+}
+
 async function fetchAndNormalize() {
   let response;
   try {
-    response = await fetch(FEED_URL);
+    response = await fetch(ESPN_URL);
   } catch (e) {
     throw new Error(`Network error fetching schedule: ${e.message}\nPopulate data/schedule.json manually.`);
   }
 
   if (!response.ok) {
     throw new Error(
-      `Failed to fetch schedule (HTTP ${response.status}): ${FEED_URL}\nPopulate data/schedule.json manually.`
+      `Failed to fetch schedule (HTTP ${response.status}): ${ESPN_URL}\nPopulate data/schedule.json manually.`
     );
   }
 
   const rawData = await response.json();
-  const matches = normalizeMatches(rawData);
+  const matches = normalizeESPNData(rawData);
 
   if (matches.length === 0) {
-    throw new Error('Fetched data contained no matches. Check the feed URL or populate data/schedule.json manually.');
+    throw new Error('Fetched data contained no matches. Populate data/schedule.json manually.');
   }
 
   return matches;
 }
 
-module.exports = { normalizeMatches, fetchAndNormalize };
+module.exports = { normalizeMatches, normalizeESPNData, fetchAndNormalize };

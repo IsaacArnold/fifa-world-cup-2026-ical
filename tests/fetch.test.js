@@ -97,3 +97,67 @@ test('normalizeMatches handles missing team names as TBD', () => {
   assert.equal(matches[0].homeTeam, 'TBD');
   assert.equal(matches[0].awayTeam, 'TBD');
 });
+
+const { normalizeESPNData } = require('../src/fetch.js');
+
+const ESPN_MOCK = {
+  events: [
+    {
+      id: '1',
+      date: '2026-06-11T19:00Z',
+      name: 'South Africa at Mexico',
+      season: { year: 2026, slug: 'group-stage' },
+      competitions: [{
+        venue: { fullName: 'Estadio Banorte', address: { city: 'Mexico City', country: 'MX' } },
+        competitors: [
+          { homeAway: 'home', team: { displayName: 'Mexico' } },
+          { homeAway: 'away', team: { displayName: 'South Africa' } },
+        ],
+      }],
+    },
+    {
+      id: '2',
+      date: '2026-07-19T19:00Z',
+      name: 'TBD at TBD',
+      season: { year: 2026, slug: 'final' },
+      competitions: [{
+        venue: { fullName: 'MetLife Stadium', address: { city: 'East Rutherford', country: 'US' } },
+        competitors: [
+          { homeAway: 'home', team: { displayName: 'TBD' } },
+          { homeAway: 'away', team: { displayName: 'TBD' } },
+        ],
+      }],
+    },
+  ],
+};
+
+test('normalizeESPNData returns correct count', () => {
+  const matches = normalizeESPNData(ESPN_MOCK);
+  assert.equal(matches.length, 2);
+});
+
+test('normalizeESPNData maps group stage match correctly', () => {
+  const matches = normalizeESPNData(ESPN_MOCK);
+  const m = matches[0];
+  assert.equal(m.matchNumber, 1);
+  assert.equal(m.stage, 'Group Stage');
+  assert.equal(m.group, null);
+  assert.equal(m.homeTeam, 'Mexico');
+  assert.equal(m.awayTeam, 'South Africa');
+  assert.equal(m.venue, 'Estadio Banorte');
+  assert.equal(m.city, 'Mexico City');
+  assert.equal(m.kickoffUTC, '2026-06-11T19:00:00.000Z');
+});
+
+test('normalizeESPNData maps Final stage correctly', () => {
+  const matches = normalizeESPNData(ESPN_MOCK);
+  const m = matches[1];
+  assert.equal(m.stage, 'Final');
+  assert.equal(m.matchNumber, 2);
+});
+
+test('normalizeESPNData assigns sequential match numbers', () => {
+  const matches = normalizeESPNData(ESPN_MOCK);
+  assert.equal(matches[0].matchNumber, 1);
+  assert.equal(matches[1].matchNumber, 2);
+});

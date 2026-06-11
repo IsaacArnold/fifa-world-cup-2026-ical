@@ -7,32 +7,626 @@ X-WR-CALNAME:FIFA World Cup 2026
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:fifa2026-match-001@fifa-world-cup-2026
-DTSTART:20260611T210000Z
-DTEND:20260611T230000Z
-SUMMARY:Group A: Mexico vs Ecuador — Mexico City
+DTSTART:20260611T190000Z
+DTEND:20260611T210000Z
+SUMMARY:Group Stage: Mexico vs South Africa — Mexico City
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-002@fifa-world-cup-2026
-DTSTART:20260612T000000Z
-DTEND:20260612T020000Z
-SUMMARY:Group A: USA vs Canada — East Rutherford
+DTSTART:20260612T020000Z
+DTEND:20260612T040000Z
+SUMMARY:Group Stage: South Korea vs Czechia — Guadalajara
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-003@fifa-world-cup-2026
-DTSTART:20260612T230000Z
-DTEND:20260613T010000Z
-SUMMARY:Group B: Brazil vs Argentina — Pasadena
+DTSTART:20260612T190000Z
+DTEND:20260612T210000Z
+SUMMARY:Group Stage: Canada vs Bosnia-Herzegovina — Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-004@fifa-world-cup-2026
-DTSTART:20260615T210000Z
-DTEND:20260615T230000Z
-SUMMARY:Group A: Ecuador vs Canada — Mexico City
+DTSTART:20260613T010000Z
+DTEND:20260613T030000Z
+SUMMARY:Group Stage: United States vs Paraguay — Inglewood, California
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-005@fifa-world-cup-2026
-DTSTART:20260616T020000Z
-DTEND:20260616T040000Z
-SUMMARY:Group B: Argentina vs Brazil — Pasadena
+DTSTART:20260613T190000Z
+DTEND:20260613T210000Z
+SUMMARY:Group Stage: Qatar vs Switzerland — Santa Clara, California
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-006@fifa-world-cup-2026
+DTSTART:20260613T220000Z
+DTEND:20260614T000000Z
+SUMMARY:Group Stage: Brazil vs Morocco — East Rutherford, New Jersey
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-007@fifa-world-cup-2026
+DTSTART:20260614T010000Z
+DTEND:20260614T030000Z
+SUMMARY:Group Stage: Haiti vs Scotland — Foxborough, Massachusetts
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-008@fifa-world-cup-2026
+DTSTART:20260614T040000Z
+DTEND:20260614T060000Z
+SUMMARY:Group Stage: Australia vs Türkiye — Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-009@fifa-world-cup-2026
+DTSTART:20260614T170000Z
+DTEND:20260614T190000Z
+SUMMARY:Group Stage: Germany vs Curaçao — Houston, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-010@fifa-world-cup-2026
+DTSTART:20260614T200000Z
+DTEND:20260614T220000Z
+SUMMARY:Group Stage: Netherlands vs Japan — Arlington, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-011@fifa-world-cup-2026
+DTSTART:20260614T230000Z
+DTEND:20260615T010000Z
+SUMMARY:Group Stage: Ivory Coast vs Ecuador — Philadelphia, Pennsylvania
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-012@fifa-world-cup-2026
+DTSTART:20260615T020000Z
+DTEND:20260615T040000Z
+SUMMARY:Group Stage: Sweden vs Tunisia — Guadalupe
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-013@fifa-world-cup-2026
+DTSTART:20260615T160000Z
+DTEND:20260615T180000Z
+SUMMARY:Group Stage: Spain vs Cape Verde — Atlanta, Georgia
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-014@fifa-world-cup-2026
+DTSTART:20260615T190000Z
+DTEND:20260615T210000Z
+SUMMARY:Group Stage: Belgium vs Egypt — Seattle, Washington
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-015@fifa-world-cup-2026
+DTSTART:20260615T220000Z
+DTEND:20260616T000000Z
+SUMMARY:Group Stage: Saudi Arabia vs Uruguay — Miami Gardens, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-016@fifa-world-cup-2026
+DTSTART:20260616T010000Z
+DTEND:20260616T030000Z
+SUMMARY:Group Stage: Iran vs New Zealand — Inglewood, California
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-017@fifa-world-cup-2026
+DTSTART:20260616T190000Z
+DTEND:20260616T210000Z
+SUMMARY:Group Stage: France vs Senegal — East Rutherford, New Jersey
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-018@fifa-world-cup-2026
+DTSTART:20260616T220000Z
+DTEND:20260617T000000Z
+SUMMARY:Group Stage: Iraq vs Norway — Foxborough, Massachusetts
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-019@fifa-world-cup-2026
+DTSTART:20260617T010000Z
+DTEND:20260617T030000Z
+SUMMARY:Group Stage: Argentina vs Algeria — Kansas City, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-020@fifa-world-cup-2026
+DTSTART:20260617T040000Z
+DTEND:20260617T060000Z
+SUMMARY:Group Stage: Austria vs Jordan — Santa Clara, California
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-021@fifa-world-cup-2026
+DTSTART:20260617T170000Z
+DTEND:20260617T190000Z
+SUMMARY:Group Stage: Portugal vs Congo DR — Houston, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-022@fifa-world-cup-2026
+DTSTART:20260617T200000Z
+DTEND:20260617T220000Z
+SUMMARY:Group Stage: England vs Croatia — Arlington, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-023@fifa-world-cup-2026
+DTSTART:20260617T230000Z
+DTEND:20260618T010000Z
+SUMMARY:Group Stage: Ghana vs Panama — Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-024@fifa-world-cup-2026
+DTSTART:20260618T020000Z
+DTEND:20260618T040000Z
+SUMMARY:Group Stage: Uzbekistan vs Colombia — Mexico City
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-025@fifa-world-cup-2026
+DTSTART:20260618T160000Z
+DTEND:20260618T180000Z
+SUMMARY:Group Stage: Czechia vs South Africa — Atlanta, Georgia
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-026@fifa-world-cup-2026
+DTSTART:20260618T190000Z
+DTEND:20260618T210000Z
+SUMMARY:Group Stage: Switzerland vs Bosnia-Herzegovina — Inglewood, California
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-027@fifa-world-cup-2026
+DTSTART:20260618T220000Z
+DTEND:20260619T000000Z
+SUMMARY:Group Stage: Canada vs Qatar — Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-028@fifa-world-cup-2026
+DTSTART:20260619T010000Z
+DTEND:20260619T030000Z
+SUMMARY:Group Stage: Mexico vs South Korea — Guadalajara
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-029@fifa-world-cup-2026
+DTSTART:20260619T190000Z
+DTEND:20260619T210000Z
+SUMMARY:Group Stage: United States vs Australia — Seattle, Washington
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-030@fifa-world-cup-2026
+DTSTART:20260619T220000Z
+DTEND:20260620T000000Z
+SUMMARY:Group Stage: Scotland vs Morocco — Foxborough, Massachusetts
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-031@fifa-world-cup-2026
+DTSTART:20260620T003000Z
+DTEND:20260620T023000Z
+SUMMARY:Group Stage: Brazil vs Haiti — Philadelphia, Pennsylvania
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-032@fifa-world-cup-2026
+DTSTART:20260620T030000Z
+DTEND:20260620T050000Z
+SUMMARY:Group Stage: Türkiye vs Paraguay — Santa Clara, California
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-033@fifa-world-cup-2026
+DTSTART:20260620T170000Z
+DTEND:20260620T190000Z
+SUMMARY:Group Stage: Netherlands vs Sweden — Houston, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-034@fifa-world-cup-2026
+DTSTART:20260620T200000Z
+DTEND:20260620T220000Z
+SUMMARY:Group Stage: Germany vs Ivory Coast — Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-035@fifa-world-cup-2026
+DTSTART:20260621T000000Z
+DTEND:20260621T020000Z
+SUMMARY:Group Stage: Ecuador vs Curaçao — Kansas City, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-036@fifa-world-cup-2026
+DTSTART:20260621T040000Z
+DTEND:20260621T060000Z
+SUMMARY:Group Stage: Tunisia vs Japan — Guadalupe
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-037@fifa-world-cup-2026
+DTSTART:20260621T160000Z
+DTEND:20260621T180000Z
+SUMMARY:Group Stage: Spain vs Saudi Arabia — Atlanta, Georgia
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-038@fifa-world-cup-2026
+DTSTART:20260621T190000Z
+DTEND:20260621T210000Z
+SUMMARY:Group Stage: Belgium vs Iran — Inglewood, California
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-039@fifa-world-cup-2026
+DTSTART:20260621T220000Z
+DTEND:20260622T000000Z
+SUMMARY:Group Stage: Uruguay vs Cape Verde — Miami Gardens, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-040@fifa-world-cup-2026
+DTSTART:20260622T010000Z
+DTEND:20260622T030000Z
+SUMMARY:Group Stage: New Zealand vs Egypt — Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-041@fifa-world-cup-2026
+DTSTART:20260622T170000Z
+DTEND:20260622T190000Z
+SUMMARY:Group Stage: Argentina vs Austria — Arlington, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-042@fifa-world-cup-2026
+DTSTART:20260622T210000Z
+DTEND:20260622T230000Z
+SUMMARY:Group Stage: France vs Iraq — Philadelphia, Pennsylvania
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-043@fifa-world-cup-2026
+DTSTART:20260623T000000Z
+DTEND:20260623T020000Z
+SUMMARY:Group Stage: Norway vs Senegal — East Rutherford, New Jersey
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-044@fifa-world-cup-2026
+DTSTART:20260623T030000Z
+DTEND:20260623T050000Z
+SUMMARY:Group Stage: Jordan vs Algeria — Santa Clara, California
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-045@fifa-world-cup-2026
+DTSTART:20260623T170000Z
+DTEND:20260623T190000Z
+SUMMARY:Group Stage: Portugal vs Uzbekistan — Houston, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-046@fifa-world-cup-2026
+DTSTART:20260623T200000Z
+DTEND:20260623T220000Z
+SUMMARY:Group Stage: England vs Ghana — Foxborough, Massachusetts
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-047@fifa-world-cup-2026
+DTSTART:20260623T230000Z
+DTEND:20260624T010000Z
+SUMMARY:Group Stage: Panama vs Croatia — Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-048@fifa-world-cup-2026
+DTSTART:20260624T020000Z
+DTEND:20260624T040000Z
+SUMMARY:Group Stage: Colombia vs Congo DR — Guadalajara
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-049@fifa-world-cup-2026
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:Group Stage: Bosnia-Herzegovina vs Qatar — Seattle, Washington
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-050@fifa-world-cup-2026
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:Group Stage: Switzerland vs Canada — Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-051@fifa-world-cup-2026
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:Group Stage: Morocco vs Haiti — Atlanta, Georgia
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-052@fifa-world-cup-2026
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:Group Stage: Scotland vs Brazil — Miami Gardens, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-053@fifa-world-cup-2026
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:Group Stage: Czechia vs Mexico — Mexico City
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-054@fifa-world-cup-2026
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:Group Stage: South Africa vs South Korea — Guadalupe
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-055@fifa-world-cup-2026
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:Group Stage: Curaçao vs Ivory Coast — Philadelphia, Pennsylvania
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-056@fifa-world-cup-2026
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:Group Stage: Ecuador vs Germany — East Rutherford, New Jersey
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-057@fifa-world-cup-2026
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:Group Stage: Japan vs Sweden — Arlington, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-058@fifa-world-cup-2026
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:Group Stage: Tunisia vs Netherlands — Kansas City, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-059@fifa-world-cup-2026
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:Group Stage: Paraguay vs Australia — Santa Clara, California
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-060@fifa-world-cup-2026
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:Group Stage: Türkiye vs United States — Inglewood, California
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-061@fifa-world-cup-2026
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:Group Stage: Norway vs France — Foxborough, Massachusetts
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-062@fifa-world-cup-2026
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:Group Stage: Senegal vs Iraq — Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-063@fifa-world-cup-2026
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:Group Stage: Cape Verde vs Saudi Arabia — Houston, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-064@fifa-world-cup-2026
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:Group Stage: Uruguay vs Spain — Guadalajara
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-065@fifa-world-cup-2026
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:Group Stage: Egypt vs Iran — Seattle, Washington
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-066@fifa-world-cup-2026
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:Group Stage: New Zealand vs Belgium — Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-067@fifa-world-cup-2026
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+SUMMARY:Group Stage: Croatia vs Ghana — Philadelphia, Pennsylvania
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-068@fifa-world-cup-2026
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+SUMMARY:Group Stage: Panama vs England — East Rutherford, New Jersey
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-069@fifa-world-cup-2026
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:Group Stage: Colombia vs Portugal — Miami Gardens, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-070@fifa-world-cup-2026
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:Group Stage: Congo DR vs Uzbekistan — Atlanta, Georgia
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-071@fifa-world-cup-2026
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:Group Stage: Algeria vs Austria — Kansas City, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-072@fifa-world-cup-2026
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:Group Stage: Jordan vs Argentina — Arlington, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-073@fifa-world-cup-2026
+DTSTART:20260628T190000Z
+DTEND:20260628T210000Z
+SUMMARY:Round of 32: Group A 2nd Place vs Group B 2nd Place — Inglewood, California
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-074@fifa-world-cup-2026
+DTSTART:20260629T170000Z
+DTEND:20260629T190000Z
+SUMMARY:Round of 32: Group C Winner vs Group F 2nd Place — Houston, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-075@fifa-world-cup-2026
+DTSTART:20260629T203000Z
+DTEND:20260629T223000Z
+SUMMARY:Round of 32: Group E Winner vs Third Place Group A/B/C/D/F — Foxborough, Massachusetts
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-076@fifa-world-cup-2026
+DTSTART:20260630T010000Z
+DTEND:20260630T030000Z
+SUMMARY:Round of 32: Group F Winner vs Group C 2nd Place — Guadalupe
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-077@fifa-world-cup-2026
+DTSTART:20260630T170000Z
+DTEND:20260630T190000Z
+SUMMARY:Round of 32: Group E 2nd Place vs Group I 2nd Place — Arlington, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-078@fifa-world-cup-2026
+DTSTART:20260630T210000Z
+DTEND:20260630T230000Z
+SUMMARY:Round of 32: Group I Winner vs Third Place Group C/D/F/G/H — East Rutherford, New Jersey
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-079@fifa-world-cup-2026
+DTSTART:20260701T010000Z
+DTEND:20260701T030000Z
+SUMMARY:Round of 32: Group A Winner vs Third Place Group C/E/F/H/I — Mexico City
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-080@fifa-world-cup-2026
+DTSTART:20260701T160000Z
+DTEND:20260701T180000Z
+SUMMARY:Round of 32: Group L Winner vs Third Place Group E/H/I/J/K — Atlanta, Georgia
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-081@fifa-world-cup-2026
+DTSTART:20260701T200000Z
+DTEND:20260701T220000Z
+SUMMARY:Round of 32: Group G Winner vs Third Place Group A/E/H/I/J — Seattle, Washington
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-082@fifa-world-cup-2026
+DTSTART:20260702T000000Z
+DTEND:20260702T020000Z
+SUMMARY:Round of 32: Group D Winner vs Third Place Group B/E/F/I/J — Santa Clara, California
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-083@fifa-world-cup-2026
+DTSTART:20260702T190000Z
+DTEND:20260702T210000Z
+SUMMARY:Round of 32: Group H Winner vs Group J 2nd Place — Inglewood, California
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-084@fifa-world-cup-2026
+DTSTART:20260702T230000Z
+DTEND:20260703T010000Z
+SUMMARY:Round of 32: Group K 2nd Place vs Group L 2nd Place — Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-085@fifa-world-cup-2026
+DTSTART:20260703T030000Z
+DTEND:20260703T050000Z
+SUMMARY:Round of 32: Group B Winner vs Third Place Group E/F/G/I/J — Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-086@fifa-world-cup-2026
+DTSTART:20260703T180000Z
+DTEND:20260703T200000Z
+SUMMARY:Round of 32: Group D 2nd Place vs Group G 2nd Place — Arlington, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-087@fifa-world-cup-2026
+DTSTART:20260703T220000Z
+DTEND:20260704T000000Z
+SUMMARY:Round of 32: Group J Winner vs Group H 2nd Place — Miami Gardens, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-088@fifa-world-cup-2026
+DTSTART:20260704T013000Z
+DTEND:20260704T033000Z
+SUMMARY:Round of 32: Group K Winner vs Third Place Group D/E/I/J/L — Kansas City, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-089@fifa-world-cup-2026
+DTSTART:20260704T170000Z
+DTEND:20260704T190000Z
+SUMMARY:Round of 16: Round of 32 1 Winner vs Round of 32 3 Winner — Houston, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-090@fifa-world-cup-2026
+DTSTART:20260704T210000Z
+DTEND:20260704T230000Z
+SUMMARY:Round of 16: Round of 32 2 Winner vs Round of 32 5 Winner — Philadelphia, Pennsylvania
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-091@fifa-world-cup-2026
+DTSTART:20260705T200000Z
+DTEND:20260705T220000Z
+SUMMARY:Round of 16: Round of 32 4 Winner vs Round of 32 6 Winner — East Rutherford, New Jersey
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-092@fifa-world-cup-2026
+DTSTART:20260706T000000Z
+DTEND:20260706T020000Z
+SUMMARY:Round of 16: Round of 32 7 Winner vs Round of 32 8 Winner — Mexico City
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-093@fifa-world-cup-2026
+DTSTART:20260706T190000Z
+DTEND:20260706T210000Z
+SUMMARY:Round of 16: Round of 32 11 Winner vs Round of 32 12 Winner — Arlington, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-094@fifa-world-cup-2026
+DTSTART:20260707T000000Z
+DTEND:20260707T020000Z
+SUMMARY:Round of 16: Round of 32 9 Winner vs Round of 32 10 Winner — Seattle, Washington
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-095@fifa-world-cup-2026
+DTSTART:20260707T160000Z
+DTEND:20260707T180000Z
+SUMMARY:Round of 16: Round of 32 14 Winner vs Round of 32 16 Winner — Atlanta, Georgia
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-096@fifa-world-cup-2026
+DTSTART:20260707T200000Z
+DTEND:20260707T220000Z
+SUMMARY:Round of 16: Round of 32 13 Winner vs Round of 32 15 Winner — Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-097@fifa-world-cup-2026
+DTSTART:20260709T200000Z
+DTEND:20260709T220000Z
+SUMMARY:Quarterfinals: Round of 16 1 Winner vs Round of 16 2 Winner — Foxborough, Massachusetts
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-098@fifa-world-cup-2026
+DTSTART:20260710T190000Z
+DTEND:20260710T210000Z
+SUMMARY:Quarterfinals: Round of 16 5 Winner vs Round of 16 6 Winner — Inglewood, California
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-099@fifa-world-cup-2026
+DTSTART:20260711T210000Z
+DTEND:20260711T230000Z
+SUMMARY:Quarterfinals: Round of 16 3 Winner vs Round of 16 4 Winner — Miami Gardens, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-100@fifa-world-cup-2026
+DTSTART:20260712T010000Z
+DTEND:20260712T030000Z
+SUMMARY:Quarterfinals: Round of 16 7 Winner vs Round of 16 8 Winner — Kansas City, Missouri
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-101@fifa-world-cup-2026
+DTSTART:20260714T190000Z
+DTEND:20260714T210000Z
+SUMMARY:Semifinals: Quarterfinal 1 Winner vs Quarterfinal 2 Winner — Arlington, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-102@fifa-world-cup-2026
+DTSTART:20260715T190000Z
+DTEND:20260715T210000Z
+SUMMARY:Semifinals: Quarterfinal 3 Winner vs Quarterfinal 4 Winner — Atlanta, Georgia
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-103@fifa-world-cup-2026
+DTSTART:20260718T210000Z
+DTEND:20260718T230000Z
+SUMMARY:3rd-place-match: Semifinal 1 Loser vs Semifinal 2 Loser — Miami Gardens, Florida
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-104@fifa-world-cup-2026
+DTSTART:20260719T190000Z
+DTEND:20260719T210000Z
+SUMMARY:Final: Semifinal 1 Winner vs Semifinal 2 Winner — East Rutherford, New Jersey
 END:VEVENT
 END:VCALENDAR
