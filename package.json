@@ -1,0 +1,14 @@
+{
+  "name": "fifa-world-cup-2026-ical",
+  "version": "1.0.0",
+  "description": "2026 FIFA World Cup iCalendar generator",
+  "type": "commonjs",
+  "scripts": {
+    "generate": "node generate.js",
+    "refresh": "node generate.js --refresh",
+    "test": "node --test tests/*.test.js"
+  },
+  "dependencies": {
+    "luxon": "^3.5.0"
+  }
+}
