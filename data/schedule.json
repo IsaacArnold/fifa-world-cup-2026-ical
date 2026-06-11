@@ -1,0 +1,57 @@
+[
+  {
+    "matchNumber": 1,
+    "stage": "Group Stage",
+    "group": "A",
+    "homeTeam": "Mexico",
+    "awayTeam": "Ecuador",
+    "kickoffUTC": "2026-06-11T21:00:00.000Z",
+    "venue": "Estadio Azteca",
+    "city": "Mexico City",
+    "country": "Mexico"
+  },
+  {
+    "matchNumber": 2,
+    "stage": "Group Stage",
+    "group": "A",
+    "homeTeam": "USA",
+    "awayTeam": "Canada",
+    "kickoffUTC": "2026-06-12T00:00:00.000Z",
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford",
+    "country": "USA"
+  },
+  {
+    "matchNumber": 3,
+    "stage": "Group Stage",
+    "group": "B",
+    "homeTeam": "Brazil",
+    "awayTeam": "Argentina",
+    "kickoffUTC": "2026-06-12T23:00:00.000Z",
+    "venue": "Rose Bowl",
+    "city": "Pasadena",
+    "country": "USA"
+  },
+  {
+    "matchNumber": 4,
+    "stage": "Group Stage",
+    "group": "A",
+    "homeTeam": "Ecuador",
+    "awayTeam": "Canada",
+    "kickoffUTC": "2026-06-15T21:00:00.000Z",
+    "venue": "Estadio Azteca",
+    "city": "Mexico City",
+    "country": "Mexico"
+  },
+  {
+    "matchNumber": 5,
+    "stage": "Group Stage",
+    "group": "B",
+    "homeTeam": "Argentina",
+    "awayTeam": "Brazil",
+    "kickoffUTC": "2026-06-16T02:00:00.000Z",
+    "venue": "Rose Bowl",
+    "city": "Pasadena",
+    "country": "USA"
+  }
+]
