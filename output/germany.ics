@@ -9,18 +9,18 @@ BEGIN:VEVENT
 UID:fifa2026-match-009@fifa-world-cup-2026
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
-SUMMARY:Group Stage: Germany vs Curaçao — Houston, Texas
+SUMMARY:Group Stage: 🇩🇪 Germany vs 🇨🇼 Curaçao — Houston, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-034@fifa-world-cup-2026
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
-SUMMARY:Group Stage: Germany vs Ivory Coast — Toronto
+SUMMARY:Group Stage: 🇩🇪 Germany vs 🇨🇮 Ivory Coast — Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-056@fifa-world-cup-2026
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-SUMMARY:Group Stage: Ecuador vs Germany — East Rutherford, New Jersey
+SUMMARY:Group Stage: 🇪🇨 Ecuador vs 🇩🇪 Germany — East Rutherford, New Jersey
 END:VEVENT
 END:VCALENDAR

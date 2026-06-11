@@ -9,18 +9,18 @@ BEGIN:VEVENT
 UID:fifa2026-match-001@fifa-world-cup-2026
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
-SUMMARY:Group Stage: Mexico vs South Africa — Mexico City
+SUMMARY:Group Stage: 🇲🇽 Mexico vs 🇿🇦 South Africa — Mexico City
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-028@fifa-world-cup-2026
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
-SUMMARY:Group Stage: Mexico vs South Korea — Guadalajara
+SUMMARY:Group Stage: 🇲🇽 Mexico vs 🇰🇷 South Korea — Guadalajara
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-053@fifa-world-cup-2026
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-SUMMARY:Group Stage: Czechia vs Mexico — Mexico City
+SUMMARY:Group Stage: 🇨🇿 Czechia vs 🇲🇽 Mexico — Mexico City
 END:VEVENT
 END:VCALENDAR

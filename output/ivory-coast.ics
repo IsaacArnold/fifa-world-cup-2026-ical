@@ -9,18 +9,18 @@ BEGIN:VEVENT
 UID:fifa2026-match-011@fifa-world-cup-2026
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
-SUMMARY:Group Stage: Ivory Coast vs Ecuador — Philadelphia, Pennsylvania
+SUMMARY:Group Stage: 🇨🇮 Ivory Coast vs 🇪🇨 Ecuador — Philadelphia, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-034@fifa-world-cup-2026
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
-SUMMARY:Group Stage: Germany vs Ivory Coast — Toronto
+SUMMARY:Group Stage: 🇩🇪 Germany vs 🇨🇮 Ivory Coast — Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-055@fifa-world-cup-2026
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-SUMMARY:Group Stage: Curaçao vs Ivory Coast — Philadelphia, Pennsylvania
+SUMMARY:Group Stage: 🇨🇼 Curaçao vs 🇨🇮 Ivory Coast — Philadelphia, Pennsylvania
 END:VEVENT
 END:VCALENDAR

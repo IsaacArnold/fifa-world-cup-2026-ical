@@ -9,18 +9,18 @@ BEGIN:VEVENT
 UID:fifa2026-match-003@fifa-world-cup-2026
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
-SUMMARY:Group Stage: Canada vs Bosnia-Herzegovina — Toronto
+SUMMARY:Group Stage: 🇨🇦 Canada vs 🇧🇦 Bosnia-Herzegovina — Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-027@fifa-world-cup-2026
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
-SUMMARY:Group Stage: Canada vs Qatar — Vancouver
+SUMMARY:Group Stage: 🇨🇦 Canada vs 🇶🇦 Qatar — Vancouver
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-050@fifa-world-cup-2026
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-SUMMARY:Group Stage: Switzerland vs Canada — Vancouver
+SUMMARY:Group Stage: 🇨🇭 Switzerland vs 🇨🇦 Canada — Vancouver
 END:VEVENT
 END:VCALENDAR

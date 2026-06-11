@@ -9,18 +9,18 @@ BEGIN:VEVENT
 UID:fifa2026-match-013@fifa-world-cup-2026
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
-SUMMARY:Group Stage: Spain vs Cape Verde — Atlanta, Georgia
+SUMMARY:Group Stage: 🇪🇸 Spain vs 🇨🇻 Cape Verde — Atlanta, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-037@fifa-world-cup-2026
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
-SUMMARY:Group Stage: Spain vs Saudi Arabia — Atlanta, Georgia
+SUMMARY:Group Stage: 🇪🇸 Spain vs 🇸🇦 Saudi Arabia — Atlanta, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-064@fifa-world-cup-2026
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-SUMMARY:Group Stage: Uruguay vs Spain — Guadalajara
+SUMMARY:Group Stage: 🇺🇾 Uruguay vs 🇪🇸 Spain — Guadalajara
 END:VEVENT
 END:VCALENDAR

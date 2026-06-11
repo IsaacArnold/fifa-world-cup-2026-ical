@@ -9,18 +9,18 @@ BEGIN:VEVENT
 UID:fifa2026-match-014@fifa-world-cup-2026
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
-SUMMARY:Group Stage: Belgium vs Egypt — Seattle, Washington
+SUMMARY:Group Stage: 🇧🇪 Belgium vs 🇪🇬 Egypt — Seattle, Washington
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-040@fifa-world-cup-2026
 DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
-SUMMARY:Group Stage: New Zealand vs Egypt — Vancouver
+SUMMARY:Group Stage: 🇳🇿 New Zealand vs 🇪🇬 Egypt — Vancouver
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-065@fifa-world-cup-2026
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-SUMMARY:Group Stage: Egypt vs Iran — Seattle, Washington
+SUMMARY:Group Stage: 🇪🇬 Egypt vs 🇮🇷 Iran — Seattle, Washington
 END:VEVENT
 END:VCALENDAR

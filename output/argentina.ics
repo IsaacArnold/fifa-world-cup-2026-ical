@@ -9,18 +9,18 @@ BEGIN:VEVENT
 UID:fifa2026-match-019@fifa-world-cup-2026
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
-SUMMARY:Group Stage: Argentina vs Algeria — Kansas City, Missouri
+SUMMARY:Group Stage: 🇦🇷 Argentina vs 🇩🇿 Algeria — Kansas City, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-041@fifa-world-cup-2026
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
-SUMMARY:Group Stage: Argentina vs Austria — Arlington, Texas
+SUMMARY:Group Stage: 🇦🇷 Argentina vs 🇦🇹 Austria — Arlington, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-072@fifa-world-cup-2026
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
-SUMMARY:Group Stage: Jordan vs Argentina — Arlington, Texas
+SUMMARY:Group Stage: 🇯🇴 Jordan vs 🇦🇷 Argentina — Arlington, Texas
 END:VEVENT
 END:VCALENDAR

@@ -1,3 +1,54 @@
+const TEAM_FLAGS = {
+  'Algeria': '🇩🇿',
+  'Argentina': '🇦🇷',
+  'Australia': '🇦🇺',
+  'Austria': '🇦🇹',
+  'Belgium': '🇧🇪',
+  'Bosnia-Herzegovina': '🇧🇦',
+  'Brazil': '🇧🇷',
+  'Canada': '🇨🇦',
+  'Cape Verde': '🇨🇻',
+  'Colombia': '🇨🇴',
+  'Congo DR': '🇨🇩',
+  'Croatia': '🇭🇷',
+  'Curaçao': '🇨🇼',
+  'Czechia': '🇨🇿',
+  'Ecuador': '🇪🇨',
+  'Egypt': '🇪🇬',
+  'England': '🏴󠁧󠁢󠁥󠁮󠁧󠁿',
+  'France': '🇫🇷',
+  'Germany': '🇩🇪',
+  'Ghana': '🇬🇭',
+  'Haiti': '🇭🇹',
+  'Iran': '🇮🇷',
+  'Iraq': '🇮🇶',
+  'Ivory Coast': '🇨🇮',
+  'Japan': '🇯🇵',
+  'Jordan': '🇯🇴',
+  'Mexico': '🇲🇽',
+  'Morocco': '🇲🇦',
+  'Netherlands': '🇳🇱',
+  'New Zealand': '🇳🇿',
+  'Norway': '🇳🇴',
+  'Panama': '🇵🇦',
+  'Paraguay': '🇵🇾',
+  'Portugal': '🇵🇹',
+  'Qatar': '🇶🇦',
+  'Saudi Arabia': '🇸🇦',
+  'Scotland': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
+  'Senegal': '🇸🇳',
+  'South Africa': '🇿🇦',
+  'South Korea': '🇰🇷',
+  'Spain': '🇪🇸',
+  'Sweden': '🇸🇪',
+  'Switzerland': '🇨🇭',
+  'Tunisia': '🇹🇳',
+  'Türkiye': '🇹🇷',
+  'United States': '🇺🇸',
+  'Uruguay': '🇺🇾',
+  'Uzbekistan': '🇺🇿',
+};
+
 function slugify(name) {
   return name
     .toLowerCase()
@@ -11,6 +62,11 @@ function formatUTCDate(isoString) {
     .replace(/[-:]/g, '');
 }
 
+function teamWithFlag(name) {
+  const flag = TEAM_FLAGS[name];
+  return flag ? `${flag} ${name}` : name;
+}
+
 function matchToVEvent(match) {
   const start = formatUTCDate(match.kickoffUTC);
   const endDate = new Date(match.kickoffUTC);
@@ -20,7 +76,7 @@ function matchToVEvent(match) {
   const matchNumStr = String(match.matchNumber).padStart(3, '0');
   const uid = `fifa2026-match-${matchNumStr}@fifa-world-cup-2026`;
   const prefix = match.group ? `Group ${match.group}` : match.stage;
-  const summary = `${prefix}: ${match.homeTeam} vs ${match.awayTeam} — ${match.city}`;
+  const summary = `${prefix}: ${teamWithFlag(match.homeTeam)} vs ${teamWithFlag(match.awayTeam)} — ${match.city}`;
 
   return [
     'BEGIN:VEVENT',

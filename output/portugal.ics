@@ -9,18 +9,18 @@ BEGIN:VEVENT
 UID:fifa2026-match-021@fifa-world-cup-2026
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
-SUMMARY:Group Stage: Portugal vs Congo DR — Houston, Texas
+SUMMARY:Group Stage: 🇵🇹 Portugal vs 🇨🇩 Congo DR — Houston, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-045@fifa-world-cup-2026
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
-SUMMARY:Group Stage: Portugal vs Uzbekistan — Houston, Texas
+SUMMARY:Group Stage: 🇵🇹 Portugal vs 🇺🇿 Uzbekistan — Houston, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-069@fifa-world-cup-2026
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-SUMMARY:Group Stage: Colombia vs Portugal — Miami Gardens, Florida
+SUMMARY:Group Stage: 🇨🇴 Colombia vs 🇵🇹 Portugal — Miami Gardens, Florida
 END:VEVENT
 END:VCALENDAR

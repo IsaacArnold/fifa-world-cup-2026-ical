@@ -9,18 +9,18 @@ BEGIN:VEVENT
 UID:fifa2026-match-012@fifa-world-cup-2026
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
-SUMMARY:Group Stage: Sweden vs Tunisia — Guadalupe
+SUMMARY:Group Stage: 🇸🇪 Sweden vs 🇹🇳 Tunisia — Guadalupe
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-036@fifa-world-cup-2026
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
-SUMMARY:Group Stage: Tunisia vs Japan — Guadalupe
+SUMMARY:Group Stage: 🇹🇳 Tunisia vs 🇯🇵 Japan — Guadalupe
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-058@fifa-world-cup-2026
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-SUMMARY:Group Stage: Tunisia vs Netherlands — Kansas City, Missouri
+SUMMARY:Group Stage: 🇹🇳 Tunisia vs 🇳🇱 Netherlands — Kansas City, Missouri
 END:VEVENT
 END:VCALENDAR

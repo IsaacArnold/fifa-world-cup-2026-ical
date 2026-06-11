@@ -9,18 +9,18 @@ BEGIN:VEVENT
 UID:fifa2026-match-022@fifa-world-cup-2026
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
-SUMMARY:Group Stage: England vs Croatia — Arlington, Texas
+SUMMARY:Group Stage: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇭🇷 Croatia — Arlington, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-047@fifa-world-cup-2026
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
-SUMMARY:Group Stage: Panama vs Croatia — Toronto
+SUMMARY:Group Stage: 🇵🇦 Panama vs 🇭🇷 Croatia — Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-067@fifa-world-cup-2026
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-SUMMARY:Group Stage: Croatia vs Ghana — Philadelphia, Pennsylvania
+SUMMARY:Group Stage: 🇭🇷 Croatia vs 🇬🇭 Ghana — Philadelphia, Pennsylvania
 END:VEVENT
 END:VCALENDAR

@@ -9,18 +9,18 @@ BEGIN:VEVENT
 UID:fifa2026-match-004@fifa-world-cup-2026
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
-SUMMARY:Group Stage: United States vs Paraguay — Inglewood, California
+SUMMARY:Group Stage: 🇺🇸 United States vs 🇵🇾 Paraguay — Inglewood, California
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-029@fifa-world-cup-2026
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
-SUMMARY:Group Stage: United States vs Australia — Seattle, Washington
+SUMMARY:Group Stage: 🇺🇸 United States vs 🇦🇺 Australia — Seattle, Washington
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-060@fifa-world-cup-2026
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-SUMMARY:Group Stage: Türkiye vs United States — Inglewood, California
+SUMMARY:Group Stage: 🇹🇷 Türkiye vs 🇺🇸 United States — Inglewood, California
 END:VEVENT
 END:VCALENDAR

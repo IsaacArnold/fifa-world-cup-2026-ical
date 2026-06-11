@@ -9,433 +9,433 @@ BEGIN:VEVENT
 UID:fifa2026-match-001@fifa-world-cup-2026
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
-SUMMARY:Group Stage: Mexico vs South Africa — Mexico City
+SUMMARY:Group Stage: 🇲🇽 Mexico vs 🇿🇦 South Africa — Mexico City
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-002@fifa-world-cup-2026
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
-SUMMARY:Group Stage: South Korea vs Czechia — Guadalajara
+SUMMARY:Group Stage: 🇰🇷 South Korea vs 🇨🇿 Czechia — Guadalajara
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-003@fifa-world-cup-2026
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
-SUMMARY:Group Stage: Canada vs Bosnia-Herzegovina — Toronto
+SUMMARY:Group Stage: 🇨🇦 Canada vs 🇧🇦 Bosnia-Herzegovina — Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-004@fifa-world-cup-2026
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
-SUMMARY:Group Stage: United States vs Paraguay — Inglewood, California
+SUMMARY:Group Stage: 🇺🇸 United States vs 🇵🇾 Paraguay — Inglewood, California
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-005@fifa-world-cup-2026
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
-SUMMARY:Group Stage: Qatar vs Switzerland — Santa Clara, California
+SUMMARY:Group Stage: 🇶🇦 Qatar vs 🇨🇭 Switzerland — Santa Clara, California
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-006@fifa-world-cup-2026
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
-SUMMARY:Group Stage: Brazil vs Morocco — East Rutherford, New Jersey
+SUMMARY:Group Stage: 🇧🇷 Brazil vs 🇲🇦 Morocco — East Rutherford, New Jersey
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-007@fifa-world-cup-2026
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
-SUMMARY:Group Stage: Haiti vs Scotland — Foxborough, Massachusetts
+SUMMARY:Group Stage: 🇭🇹 Haiti vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland — Foxborough, Massachusetts
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-008@fifa-world-cup-2026
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
-SUMMARY:Group Stage: Australia vs Türkiye — Vancouver
+SUMMARY:Group Stage: 🇦🇺 Australia vs 🇹🇷 Türkiye — Vancouver
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-009@fifa-world-cup-2026
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
-SUMMARY:Group Stage: Germany vs Curaçao — Houston, Texas
+SUMMARY:Group Stage: 🇩🇪 Germany vs 🇨🇼 Curaçao — Houston, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-010@fifa-world-cup-2026
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
-SUMMARY:Group Stage: Netherlands vs Japan — Arlington, Texas
+SUMMARY:Group Stage: 🇳🇱 Netherlands vs 🇯🇵 Japan — Arlington, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-011@fifa-world-cup-2026
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
-SUMMARY:Group Stage: Ivory Coast vs Ecuador — Philadelphia, Pennsylvania
+SUMMARY:Group Stage: 🇨🇮 Ivory Coast vs 🇪🇨 Ecuador — Philadelphia, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-012@fifa-world-cup-2026
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
-SUMMARY:Group Stage: Sweden vs Tunisia — Guadalupe
+SUMMARY:Group Stage: 🇸🇪 Sweden vs 🇹🇳 Tunisia — Guadalupe
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-013@fifa-world-cup-2026
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
-SUMMARY:Group Stage: Spain vs Cape Verde — Atlanta, Georgia
+SUMMARY:Group Stage: 🇪🇸 Spain vs 🇨🇻 Cape Verde — Atlanta, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-014@fifa-world-cup-2026
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
-SUMMARY:Group Stage: Belgium vs Egypt — Seattle, Washington
+SUMMARY:Group Stage: 🇧🇪 Belgium vs 🇪🇬 Egypt — Seattle, Washington
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-015@fifa-world-cup-2026
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
-SUMMARY:Group Stage: Saudi Arabia vs Uruguay — Miami Gardens, Florida
+SUMMARY:Group Stage: 🇸🇦 Saudi Arabia vs 🇺🇾 Uruguay — Miami Gardens, Florida
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-016@fifa-world-cup-2026
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
-SUMMARY:Group Stage: Iran vs New Zealand — Inglewood, California
+SUMMARY:Group Stage: 🇮🇷 Iran vs 🇳🇿 New Zealand — Inglewood, California
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-017@fifa-world-cup-2026
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
-SUMMARY:Group Stage: France vs Senegal — East Rutherford, New Jersey
+SUMMARY:Group Stage: 🇫🇷 France vs 🇸🇳 Senegal — East Rutherford, New Jersey
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-018@fifa-world-cup-2026
 DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
-SUMMARY:Group Stage: Iraq vs Norway — Foxborough, Massachusetts
+SUMMARY:Group Stage: 🇮🇶 Iraq vs 🇳🇴 Norway — Foxborough, Massachusetts
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-019@fifa-world-cup-2026
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
-SUMMARY:Group Stage: Argentina vs Algeria — Kansas City, Missouri
+SUMMARY:Group Stage: 🇦🇷 Argentina vs 🇩🇿 Algeria — Kansas City, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-020@fifa-world-cup-2026
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
-SUMMARY:Group Stage: Austria vs Jordan — Santa Clara, California
+SUMMARY:Group Stage: 🇦🇹 Austria vs 🇯🇴 Jordan — Santa Clara, California
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-021@fifa-world-cup-2026
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
-SUMMARY:Group Stage: Portugal vs Congo DR — Houston, Texas
+SUMMARY:Group Stage: 🇵🇹 Portugal vs 🇨🇩 Congo DR — Houston, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-022@fifa-world-cup-2026
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
-SUMMARY:Group Stage: England vs Croatia — Arlington, Texas
+SUMMARY:Group Stage: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇭🇷 Croatia — Arlington, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-023@fifa-world-cup-2026
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
-SUMMARY:Group Stage: Ghana vs Panama — Toronto
+SUMMARY:Group Stage: 🇬🇭 Ghana vs 🇵🇦 Panama — Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-024@fifa-world-cup-2026
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
-SUMMARY:Group Stage: Uzbekistan vs Colombia — Mexico City
+SUMMARY:Group Stage: 🇺🇿 Uzbekistan vs 🇨🇴 Colombia — Mexico City
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-025@fifa-world-cup-2026
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
-SUMMARY:Group Stage: Czechia vs South Africa — Atlanta, Georgia
+SUMMARY:Group Stage: 🇨🇿 Czechia vs 🇿🇦 South Africa — Atlanta, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-026@fifa-world-cup-2026
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
-SUMMARY:Group Stage: Switzerland vs Bosnia-Herzegovina — Inglewood, California
+SUMMARY:Group Stage: 🇨🇭 Switzerland vs 🇧🇦 Bosnia-Herzegovina — Inglewood, California
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-027@fifa-world-cup-2026
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
-SUMMARY:Group Stage: Canada vs Qatar — Vancouver
+SUMMARY:Group Stage: 🇨🇦 Canada vs 🇶🇦 Qatar — Vancouver
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-028@fifa-world-cup-2026
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
-SUMMARY:Group Stage: Mexico vs South Korea — Guadalajara
+SUMMARY:Group Stage: 🇲🇽 Mexico vs 🇰🇷 South Korea — Guadalajara
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-029@fifa-world-cup-2026
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
-SUMMARY:Group Stage: United States vs Australia — Seattle, Washington
+SUMMARY:Group Stage: 🇺🇸 United States vs 🇦🇺 Australia — Seattle, Washington
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-030@fifa-world-cup-2026
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
-SUMMARY:Group Stage: Scotland vs Morocco — Foxborough, Massachusetts
+SUMMARY:Group Stage: 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland vs 🇲🇦 Morocco — Foxborough, Massachusetts
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-031@fifa-world-cup-2026
 DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
-SUMMARY:Group Stage: Brazil vs Haiti — Philadelphia, Pennsylvania
+SUMMARY:Group Stage: 🇧🇷 Brazil vs 🇭🇹 Haiti — Philadelphia, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-032@fifa-world-cup-2026
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
-SUMMARY:Group Stage: Türkiye vs Paraguay — Santa Clara, California
+SUMMARY:Group Stage: 🇹🇷 Türkiye vs 🇵🇾 Paraguay — Santa Clara, California
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-033@fifa-world-cup-2026
 DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
-SUMMARY:Group Stage: Netherlands vs Sweden — Houston, Texas
+SUMMARY:Group Stage: 🇳🇱 Netherlands vs 🇸🇪 Sweden — Houston, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-034@fifa-world-cup-2026
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
-SUMMARY:Group Stage: Germany vs Ivory Coast — Toronto
+SUMMARY:Group Stage: 🇩🇪 Germany vs 🇨🇮 Ivory Coast — Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-035@fifa-world-cup-2026
 DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
-SUMMARY:Group Stage: Ecuador vs Curaçao — Kansas City, Missouri
+SUMMARY:Group Stage: 🇪🇨 Ecuador vs 🇨🇼 Curaçao — Kansas City, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-036@fifa-world-cup-2026
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
-SUMMARY:Group Stage: Tunisia vs Japan — Guadalupe
+SUMMARY:Group Stage: 🇹🇳 Tunisia vs 🇯🇵 Japan — Guadalupe
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-037@fifa-world-cup-2026
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
-SUMMARY:Group Stage: Spain vs Saudi Arabia — Atlanta, Georgia
+SUMMARY:Group Stage: 🇪🇸 Spain vs 🇸🇦 Saudi Arabia — Atlanta, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-038@fifa-world-cup-2026
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
-SUMMARY:Group Stage: Belgium vs Iran — Inglewood, California
+SUMMARY:Group Stage: 🇧🇪 Belgium vs 🇮🇷 Iran — Inglewood, California
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-039@fifa-world-cup-2026
 DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
-SUMMARY:Group Stage: Uruguay vs Cape Verde — Miami Gardens, Florida
+SUMMARY:Group Stage: 🇺🇾 Uruguay vs 🇨🇻 Cape Verde — Miami Gardens, Florida
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-040@fifa-world-cup-2026
 DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
-SUMMARY:Group Stage: New Zealand vs Egypt — Vancouver
+SUMMARY:Group Stage: 🇳🇿 New Zealand vs 🇪🇬 Egypt — Vancouver
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-041@fifa-world-cup-2026
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
-SUMMARY:Group Stage: Argentina vs Austria — Arlington, Texas
+SUMMARY:Group Stage: 🇦🇷 Argentina vs 🇦🇹 Austria — Arlington, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-042@fifa-world-cup-2026
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
-SUMMARY:Group Stage: France vs Iraq — Philadelphia, Pennsylvania
+SUMMARY:Group Stage: 🇫🇷 France vs 🇮🇶 Iraq — Philadelphia, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-043@fifa-world-cup-2026
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
-SUMMARY:Group Stage: Norway vs Senegal — East Rutherford, New Jersey
+SUMMARY:Group Stage: 🇳🇴 Norway vs 🇸🇳 Senegal — East Rutherford, New Jersey
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-044@fifa-world-cup-2026
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
-SUMMARY:Group Stage: Jordan vs Algeria — Santa Clara, California
+SUMMARY:Group Stage: 🇯🇴 Jordan vs 🇩🇿 Algeria — Santa Clara, California
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-045@fifa-world-cup-2026
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
-SUMMARY:Group Stage: Portugal vs Uzbekistan — Houston, Texas
+SUMMARY:Group Stage: 🇵🇹 Portugal vs 🇺🇿 Uzbekistan — Houston, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-046@fifa-world-cup-2026
 DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
-SUMMARY:Group Stage: England vs Ghana — Foxborough, Massachusetts
+SUMMARY:Group Stage: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇬🇭 Ghana — Foxborough, Massachusetts
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-047@fifa-world-cup-2026
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
-SUMMARY:Group Stage: Panama vs Croatia — Toronto
+SUMMARY:Group Stage: 🇵🇦 Panama vs 🇭🇷 Croatia — Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-048@fifa-world-cup-2026
 DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
-SUMMARY:Group Stage: Colombia vs Congo DR — Guadalajara
+SUMMARY:Group Stage: 🇨🇴 Colombia vs 🇨🇩 Congo DR — Guadalajara
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-049@fifa-world-cup-2026
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-SUMMARY:Group Stage: Bosnia-Herzegovina vs Qatar — Seattle, Washington
+SUMMARY:Group Stage: 🇧🇦 Bosnia-Herzegovina vs 🇶🇦 Qatar — Seattle, Washington
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-050@fifa-world-cup-2026
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-SUMMARY:Group Stage: Switzerland vs Canada — Vancouver
+SUMMARY:Group Stage: 🇨🇭 Switzerland vs 🇨🇦 Canada — Vancouver
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-051@fifa-world-cup-2026
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-SUMMARY:Group Stage: Morocco vs Haiti — Atlanta, Georgia
+SUMMARY:Group Stage: 🇲🇦 Morocco vs 🇭🇹 Haiti — Atlanta, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-052@fifa-world-cup-2026
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-SUMMARY:Group Stage: Scotland vs Brazil — Miami Gardens, Florida
+SUMMARY:Group Stage: 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland vs 🇧🇷 Brazil — Miami Gardens, Florida
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-053@fifa-world-cup-2026
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-SUMMARY:Group Stage: Czechia vs Mexico — Mexico City
+SUMMARY:Group Stage: 🇨🇿 Czechia vs 🇲🇽 Mexico — Mexico City
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-054@fifa-world-cup-2026
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-SUMMARY:Group Stage: South Africa vs South Korea — Guadalupe
+SUMMARY:Group Stage: 🇿🇦 South Africa vs 🇰🇷 South Korea — Guadalupe
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-055@fifa-world-cup-2026
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-SUMMARY:Group Stage: Curaçao vs Ivory Coast — Philadelphia, Pennsylvania
+SUMMARY:Group Stage: 🇨🇼 Curaçao vs 🇨🇮 Ivory Coast — Philadelphia, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-056@fifa-world-cup-2026
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-SUMMARY:Group Stage: Ecuador vs Germany — East Rutherford, New Jersey
+SUMMARY:Group Stage: 🇪🇨 Ecuador vs 🇩🇪 Germany — East Rutherford, New Jersey
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-057@fifa-world-cup-2026
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-SUMMARY:Group Stage: Japan vs Sweden — Arlington, Texas
+SUMMARY:Group Stage: 🇯🇵 Japan vs 🇸🇪 Sweden — Arlington, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-058@fifa-world-cup-2026
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-SUMMARY:Group Stage: Tunisia vs Netherlands — Kansas City, Missouri
+SUMMARY:Group Stage: 🇹🇳 Tunisia vs 🇳🇱 Netherlands — Kansas City, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-059@fifa-world-cup-2026
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-SUMMARY:Group Stage: Paraguay vs Australia — Santa Clara, California
+SUMMARY:Group Stage: 🇵🇾 Paraguay vs 🇦🇺 Australia — Santa Clara, California
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-060@fifa-world-cup-2026
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-SUMMARY:Group Stage: Türkiye vs United States — Inglewood, California
+SUMMARY:Group Stage: 🇹🇷 Türkiye vs 🇺🇸 United States — Inglewood, California
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-061@fifa-world-cup-2026
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-SUMMARY:Group Stage: Norway vs France — Foxborough, Massachusetts
+SUMMARY:Group Stage: 🇳🇴 Norway vs 🇫🇷 France — Foxborough, Massachusetts
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-062@fifa-world-cup-2026
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-SUMMARY:Group Stage: Senegal vs Iraq — Toronto
+SUMMARY:Group Stage: 🇸🇳 Senegal vs 🇮🇶 Iraq — Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-063@fifa-world-cup-2026
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-SUMMARY:Group Stage: Cape Verde vs Saudi Arabia — Houston, Texas
+SUMMARY:Group Stage: 🇨🇻 Cape Verde vs 🇸🇦 Saudi Arabia — Houston, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-064@fifa-world-cup-2026
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-SUMMARY:Group Stage: Uruguay vs Spain — Guadalajara
+SUMMARY:Group Stage: 🇺🇾 Uruguay vs 🇪🇸 Spain — Guadalajara
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-065@fifa-world-cup-2026
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-SUMMARY:Group Stage: Egypt vs Iran — Seattle, Washington
+SUMMARY:Group Stage: 🇪🇬 Egypt vs 🇮🇷 Iran — Seattle, Washington
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-066@fifa-world-cup-2026
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-SUMMARY:Group Stage: New Zealand vs Belgium — Vancouver
+SUMMARY:Group Stage: 🇳🇿 New Zealand vs 🇧🇪 Belgium — Vancouver
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-067@fifa-world-cup-2026
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-SUMMARY:Group Stage: Croatia vs Ghana — Philadelphia, Pennsylvania
+SUMMARY:Group Stage: 🇭🇷 Croatia vs 🇬🇭 Ghana — Philadelphia, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-068@fifa-world-cup-2026
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-SUMMARY:Group Stage: Panama vs England — East Rutherford, New Jersey
+SUMMARY:Group Stage: 🇵🇦 Panama vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England — East Rutherford, New Jersey
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-069@fifa-world-cup-2026
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-SUMMARY:Group Stage: Colombia vs Portugal — Miami Gardens, Florida
+SUMMARY:Group Stage: 🇨🇴 Colombia vs 🇵🇹 Portugal — Miami Gardens, Florida
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-070@fifa-world-cup-2026
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-SUMMARY:Group Stage: Congo DR vs Uzbekistan — Atlanta, Georgia
+SUMMARY:Group Stage: 🇨🇩 Congo DR vs 🇺🇿 Uzbekistan — Atlanta, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-071@fifa-world-cup-2026
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
-SUMMARY:Group Stage: Algeria vs Austria — Kansas City, Missouri
+SUMMARY:Group Stage: 🇩🇿 Algeria vs 🇦🇹 Austria — Kansas City, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-072@fifa-world-cup-2026
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
-SUMMARY:Group Stage: Jordan vs Argentina — Arlington, Texas
+SUMMARY:Group Stage: 🇯🇴 Jordan vs 🇦🇷 Argentina — Arlington, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-073@fifa-world-cup-2026

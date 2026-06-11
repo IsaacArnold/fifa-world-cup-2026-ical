@@ -9,18 +9,18 @@ BEGIN:VEVENT
 UID:fifa2026-match-017@fifa-world-cup-2026
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
-SUMMARY:Group Stage: France vs Senegal — East Rutherford, New Jersey
+SUMMARY:Group Stage: 🇫🇷 France vs 🇸🇳 Senegal — East Rutherford, New Jersey
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-042@fifa-world-cup-2026
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
-SUMMARY:Group Stage: France vs Iraq — Philadelphia, Pennsylvania
+SUMMARY:Group Stage: 🇫🇷 France vs 🇮🇶 Iraq — Philadelphia, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-061@fifa-world-cup-2026
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-SUMMARY:Group Stage: Norway vs France — Foxborough, Massachusetts
+SUMMARY:Group Stage: 🇳🇴 Norway vs 🇫🇷 France — Foxborough, Massachusetts
 END:VEVENT
 END:VCALENDAR

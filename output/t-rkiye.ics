@@ -9,18 +9,18 @@ BEGIN:VEVENT
 UID:fifa2026-match-008@fifa-world-cup-2026
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
-SUMMARY:Group Stage: Australia vs Türkiye — Vancouver
+SUMMARY:Group Stage: 🇦🇺 Australia vs 🇹🇷 Türkiye — Vancouver
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-032@fifa-world-cup-2026
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
-SUMMARY:Group Stage: Türkiye vs Paraguay — Santa Clara, California
+SUMMARY:Group Stage: 🇹🇷 Türkiye vs 🇵🇾 Paraguay — Santa Clara, California
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-060@fifa-world-cup-2026
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-SUMMARY:Group Stage: Türkiye vs United States — Inglewood, California
+SUMMARY:Group Stage: 🇹🇷 Türkiye vs 🇺🇸 United States — Inglewood, California
 END:VEVENT
 END:VCALENDAR

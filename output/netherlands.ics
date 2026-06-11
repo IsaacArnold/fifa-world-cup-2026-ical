@@ -9,18 +9,18 @@ BEGIN:VEVENT
 UID:fifa2026-match-010@fifa-world-cup-2026
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
-SUMMARY:Group Stage: Netherlands vs Japan — Arlington, Texas
+SUMMARY:Group Stage: 🇳🇱 Netherlands vs 🇯🇵 Japan — Arlington, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-033@fifa-world-cup-2026
 DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
-SUMMARY:Group Stage: Netherlands vs Sweden — Houston, Texas
+SUMMARY:Group Stage: 🇳🇱 Netherlands vs 🇸🇪 Sweden — Houston, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-058@fifa-world-cup-2026
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-SUMMARY:Group Stage: Tunisia vs Netherlands — Kansas City, Missouri
+SUMMARY:Group Stage: 🇹🇳 Tunisia vs 🇳🇱 Netherlands — Kansas City, Missouri
 END:VEVENT
 END:VCALENDAR
