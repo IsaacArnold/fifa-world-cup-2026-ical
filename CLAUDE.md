@@ -36,7 +36,7 @@ node generate.js --refresh      # re-fetch from ESPN API, then regenerate
 
 1. **Fetch phase** — skipped if `data/schedule.json` exists and `--refresh` is not passed. Otherwise calls `fetchAndNormalize()` in `src/fetch.js`, which hits the ESPN public API and writes the result to `data/schedule.json`.
 
-2. **Generate phase** — reads `data/schedule.json`, writes `output/all.ics` (all 104 matches), one `output/<slug>.ics` per team, and `index.html` at the project root.
+2. **Generate phase** — reads `data/schedule.json`, then deletes every existing `*.ics` file in `output/` before writing `output/all.ics` (all 104 matches), one `output/<slug>.ics` per team, and `index.html` at the project root. The upfront wipe prunes stale calendars for matchups that dropped out of the schedule (e.g. resolved placeholders like `round-of-32-1-winner.ics`, or slug changes like `usa.ics` → `united-states.ics`) so they don't linger from previous runs.
 
 ### Data source
 
