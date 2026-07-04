@@ -23,4 +23,10 @@ DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 SUMMARY:Group Stage: 🇿🇦 South Africa vs 🇰🇷 South Korea — Guadalupe
 END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-073@fifa-world-cup-2026
+DTSTART:20260628T190000Z
+DTEND:20260628T210000Z
+SUMMARY:Round of 32: 🇿🇦 South Africa vs 🇨🇦 Canada — Inglewood, California
+END:VEVENT
 END:VCALENDAR

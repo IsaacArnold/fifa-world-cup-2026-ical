@@ -23,4 +23,10 @@ DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 SUMMARY:Group Stage: 🇨🇼 Curaçao vs 🇨🇮 Ivory Coast — Philadelphia, Pennsylvania
 END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-077@fifa-world-cup-2026
+DTSTART:20260630T170000Z
+DTEND:20260630T190000Z
+SUMMARY:Round of 32: 🇨🇮 Ivory Coast vs 🇳🇴 Norway — Arlington, Texas
+END:VEVENT
 END:VCALENDAR

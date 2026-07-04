@@ -23,4 +23,10 @@ DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 SUMMARY:Group Stage: 🇵🇾 Paraguay vs 🇦🇺 Australia — Santa Clara, California
 END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-086@fifa-world-cup-2026
+DTSTART:20260703T180000Z
+DTEND:20260703T200000Z
+SUMMARY:Round of 32: 🇦🇺 Australia vs 🇪🇬 Egypt — Arlington, Texas
+END:VEVENT
 END:VCALENDAR

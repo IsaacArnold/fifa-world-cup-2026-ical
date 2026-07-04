@@ -23,4 +23,10 @@ DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 SUMMARY:Group Stage: 🇨🇻 Cape Verde vs 🇸🇦 Saudi Arabia — Houston, Texas
 END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-087@fifa-world-cup-2026
+DTSTART:20260703T220000Z
+DTEND:20260704T000000Z
+SUMMARY:Round of 32: 🇦🇷 Argentina vs 🇨🇻 Cape Verde — Miami Gardens, Florida
+END:VEVENT
 END:VCALENDAR

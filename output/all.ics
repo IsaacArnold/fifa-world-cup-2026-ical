@@ -441,145 +441,145 @@ BEGIN:VEVENT
 UID:fifa2026-match-073@fifa-world-cup-2026
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
-SUMMARY:Round of 32: Group A 2nd Place vs Group B 2nd Place — Inglewood, California
+SUMMARY:Round of 32: 🇿🇦 South Africa vs 🇨🇦 Canada — Inglewood, California
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-074@fifa-world-cup-2026
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
-SUMMARY:Round of 32: Group C Winner vs Group F 2nd Place — Houston, Texas
+SUMMARY:Round of 32: 🇧🇷 Brazil vs 🇯🇵 Japan — Houston, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-075@fifa-world-cup-2026
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
-SUMMARY:Round of 32: Group E Winner vs Third Place Group A/B/C/D/F — Foxborough, Massachusetts
+SUMMARY:Round of 32: 🇩🇪 Germany vs 🇵🇾 Paraguay — Foxborough, Massachusetts
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-076@fifa-world-cup-2026
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
-SUMMARY:Round of 32: Group F Winner vs Group C 2nd Place — Guadalupe
+SUMMARY:Round of 32: 🇳🇱 Netherlands vs 🇲🇦 Morocco — Guadalupe
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-077@fifa-world-cup-2026
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
-SUMMARY:Round of 32: Group E 2nd Place vs Group I 2nd Place — Arlington, Texas
+SUMMARY:Round of 32: 🇨🇮 Ivory Coast vs 🇳🇴 Norway — Arlington, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-078@fifa-world-cup-2026
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
-SUMMARY:Round of 32: Group I Winner vs Third Place Group C/D/F/G/H — East Rutherford, New Jersey
+SUMMARY:Round of 32: 🇫🇷 France vs 🇸🇪 Sweden — East Rutherford, New Jersey
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-079@fifa-world-cup-2026
-DTSTART:20260701T010000Z
-DTEND:20260701T030000Z
-SUMMARY:Round of 32: Group A Winner vs Third Place Group C/E/F/H/I — Mexico City
+DTSTART:20260701T020000Z
+DTEND:20260701T040000Z
+SUMMARY:Round of 32: 🇲🇽 Mexico vs 🇪🇨 Ecuador — Mexico City
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-080@fifa-world-cup-2026
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
-SUMMARY:Round of 32: Group L Winner vs Third Place Group E/H/I/J/K — Atlanta, Georgia
+SUMMARY:Round of 32: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇨🇩 Congo DR — Atlanta, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-081@fifa-world-cup-2026
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
-SUMMARY:Round of 32: Group G Winner vs Third Place Group A/E/H/I/J — Seattle, Washington
+SUMMARY:Round of 32: 🇧🇪 Belgium vs 🇸🇳 Senegal — Seattle, Washington
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-082@fifa-world-cup-2026
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
-SUMMARY:Round of 32: Group D Winner vs Third Place Group B/E/F/I/J — Santa Clara, California
+SUMMARY:Round of 32: 🇺🇸 United States vs 🇧🇦 Bosnia-Herzegovina — Santa Clara, California
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-083@fifa-world-cup-2026
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
-SUMMARY:Round of 32: Group H Winner vs Group J 2nd Place — Inglewood, California
+SUMMARY:Round of 32: 🇪🇸 Spain vs 🇦🇹 Austria — Inglewood, California
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-084@fifa-world-cup-2026
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
-SUMMARY:Round of 32: Group K 2nd Place vs Group L 2nd Place — Toronto
+SUMMARY:Round of 32: 🇵🇹 Portugal vs 🇭🇷 Croatia — Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-085@fifa-world-cup-2026
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
-SUMMARY:Round of 32: Group B Winner vs Third Place Group E/F/G/I/J — Vancouver
+SUMMARY:Round of 32: 🇨🇭 Switzerland vs 🇩🇿 Algeria — Vancouver
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-086@fifa-world-cup-2026
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
-SUMMARY:Round of 32: Group D 2nd Place vs Group G 2nd Place — Arlington, Texas
+SUMMARY:Round of 32: 🇦🇺 Australia vs 🇪🇬 Egypt — Arlington, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-087@fifa-world-cup-2026
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
-SUMMARY:Round of 32: Group J Winner vs Group H 2nd Place — Miami Gardens, Florida
+SUMMARY:Round of 32: 🇦🇷 Argentina vs 🇨🇻 Cape Verde — Miami Gardens, Florida
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-088@fifa-world-cup-2026
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
-SUMMARY:Round of 32: Group K Winner vs Third Place Group D/E/I/J/L — Kansas City, Missouri
+SUMMARY:Round of 32: 🇨🇴 Colombia vs 🇬🇭 Ghana — Kansas City, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-089@fifa-world-cup-2026
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
-SUMMARY:Round of 16: Round of 32 1 Winner vs Round of 32 3 Winner — Houston, Texas
+SUMMARY:Round of 16: 🇨🇦 Canada vs 🇲🇦 Morocco — Houston, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-090@fifa-world-cup-2026
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
-SUMMARY:Round of 16: Round of 32 2 Winner vs Round of 32 5 Winner — Philadelphia, Pennsylvania
+SUMMARY:Round of 16: 🇵🇾 Paraguay vs 🇫🇷 France — Philadelphia, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-091@fifa-world-cup-2026
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
-SUMMARY:Round of 16: Round of 32 4 Winner vs Round of 32 6 Winner — East Rutherford, New Jersey
+SUMMARY:Round of 16: 🇧🇷 Brazil vs 🇳🇴 Norway — East Rutherford, New Jersey
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-092@fifa-world-cup-2026
 DTSTART:20260706T000000Z
 DTEND:20260706T020000Z
-SUMMARY:Round of 16: Round of 32 7 Winner vs Round of 32 8 Winner — Mexico City
+SUMMARY:Round of 16: 🇲🇽 Mexico vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England — Mexico City
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-093@fifa-world-cup-2026
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
-SUMMARY:Round of 16: Round of 32 11 Winner vs Round of 32 12 Winner — Arlington, Texas
+SUMMARY:Round of 16: 🇵🇹 Portugal vs 🇪🇸 Spain — Arlington, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-094@fifa-world-cup-2026
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
-SUMMARY:Round of 16: Round of 32 9 Winner vs Round of 32 10 Winner — Seattle, Washington
+SUMMARY:Round of 16: 🇺🇸 United States vs 🇧🇪 Belgium — Seattle, Washington
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-095@fifa-world-cup-2026
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
-SUMMARY:Round of 16: Round of 32 14 Winner vs Round of 32 16 Winner — Atlanta, Georgia
+SUMMARY:Round of 16: 🇦🇷 Argentina vs 🇪🇬 Egypt — Atlanta, Georgia
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-096@fifa-world-cup-2026
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
-SUMMARY:Round of 16: Round of 32 13 Winner vs Round of 32 15 Winner — Vancouver
+SUMMARY:Round of 16: 🇨🇭 Switzerland vs 🇨🇴 Colombia — Vancouver
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-097@fifa-world-cup-2026

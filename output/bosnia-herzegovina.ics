@@ -23,4 +23,10 @@ DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 SUMMARY:Group Stage: 🇧🇦 Bosnia-Herzegovina vs 🇶🇦 Qatar — Seattle, Washington
 END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-082@fifa-world-cup-2026
+DTSTART:20260702T000000Z
+DTEND:20260702T020000Z
+SUMMARY:Round of 32: 🇺🇸 United States vs 🇧🇦 Bosnia-Herzegovina — Santa Clara, California
+END:VEVENT
 END:VCALENDAR

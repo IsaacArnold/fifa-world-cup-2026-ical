@@ -23,4 +23,16 @@ DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 SUMMARY:Group Stage: 🇳🇴 Norway vs 🇫🇷 France — Foxborough, Massachusetts
 END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-078@fifa-world-cup-2026
+DTSTART:20260630T210000Z
+DTEND:20260630T230000Z
+SUMMARY:Round of 32: 🇫🇷 France vs 🇸🇪 Sweden — East Rutherford, New Jersey
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-090@fifa-world-cup-2026
+DTSTART:20260704T210000Z
+DTEND:20260704T230000Z
+SUMMARY:Round of 16: 🇵🇾 Paraguay vs 🇫🇷 France — Philadelphia, Pennsylvania
+END:VEVENT
 END:VCALENDAR

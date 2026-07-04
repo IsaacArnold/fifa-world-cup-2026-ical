@@ -23,4 +23,16 @@ DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:Group Stage: 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland vs 🇧🇷 Brazil — Miami Gardens, Florida
 END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-074@fifa-world-cup-2026
+DTSTART:20260629T170000Z
+DTEND:20260629T190000Z
+SUMMARY:Round of 32: 🇧🇷 Brazil vs 🇯🇵 Japan — Houston, Texas
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-091@fifa-world-cup-2026
+DTSTART:20260705T200000Z
+DTEND:20260705T220000Z
+SUMMARY:Round of 16: 🇧🇷 Brazil vs 🇳🇴 Norway — East Rutherford, New Jersey
+END:VEVENT
 END:VCALENDAR

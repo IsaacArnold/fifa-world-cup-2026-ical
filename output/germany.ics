@@ -23,4 +23,10 @@ DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 SUMMARY:Group Stage: 🇪🇨 Ecuador vs 🇩🇪 Germany — East Rutherford, New Jersey
 END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-075@fifa-world-cup-2026
+DTSTART:20260629T203000Z
+DTEND:20260629T223000Z
+SUMMARY:Round of 32: 🇩🇪 Germany vs 🇵🇾 Paraguay — Foxborough, Massachusetts
+END:VEVENT
 END:VCALENDAR

@@ -23,4 +23,16 @@ DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 SUMMARY:Group Stage: 🇹🇷 Türkiye vs 🇺🇸 United States — Inglewood, California
 END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-082@fifa-world-cup-2026
+DTSTART:20260702T000000Z
+DTEND:20260702T020000Z
+SUMMARY:Round of 32: 🇺🇸 United States vs 🇧🇦 Bosnia-Herzegovina — Santa Clara, California
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-094@fifa-world-cup-2026
+DTSTART:20260707T000000Z
+DTEND:20260707T020000Z
+SUMMARY:Round of 16: 🇺🇸 United States vs 🇧🇪 Belgium — Seattle, Washington
+END:VEVENT
 END:VCALENDAR
