@@ -12,7 +12,7 @@ async function main() {
 
   // --- Fetch phase ---
   if (refresh || !fs.existsSync(DATA_PATH)) {
-    console.log('Fetching schedule from openfootball...');
+    console.log('Fetching schedule from ESPN API...');
     const matches = await fetchAndNormalize();
     fs.mkdirSync(path.dirname(DATA_PATH), { recursive: true });
     fs.writeFileSync(DATA_PATH, JSON.stringify(matches, null, 2));
@@ -24,6 +24,12 @@ async function main() {
   // --- Generate phase ---
   const matches = JSON.parse(fs.readFileSync(DATA_PATH, 'utf8'));
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+
+  // Wipe stale .ics files so calendars removed from the schedule (e.g.
+  // resolved placeholder matchups) don't linger from previous runs.
+  for (const file of fs.readdirSync(OUTPUT_DIR)) {
+    if (file.endsWith('.ics')) fs.rmSync(path.join(OUTPUT_DIR, file));
+  }
 
   // Full calendar
   fs.writeFileSync(path.join(OUTPUT_DIR, 'all.ics'), buildCalendar(matches));
