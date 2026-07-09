@@ -553,8 +553,8 @@ SUMMARY:Round of 16: 🇧🇷 Brazil vs 🇳🇴 Norway — East Rutherford, New
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-092@fifa-world-cup-2026
-DTSTART:20260706T000000Z
-DTEND:20260706T020000Z
+DTSTART:20260706T010000Z
+DTEND:20260706T030000Z
 SUMMARY:Round of 16: 🇲🇽 Mexico vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England — Mexico City
 END:VEVENT
 BEGIN:VEVENT
@@ -585,31 +585,31 @@ BEGIN:VEVENT
 UID:fifa2026-match-097@fifa-world-cup-2026
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
-SUMMARY:Quarterfinals: Round of 16 1 Winner vs Round of 16 2 Winner — Foxborough, Massachusetts
+SUMMARY:Quarterfinals: 🇫🇷 France vs 🇲🇦 Morocco — Foxborough, Massachusetts
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-098@fifa-world-cup-2026
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
-SUMMARY:Quarterfinals: Round of 16 5 Winner vs Round of 16 6 Winner — Inglewood, California
+SUMMARY:Quarterfinals: 🇪🇸 Spain vs 🇧🇪 Belgium — Inglewood, California
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-099@fifa-world-cup-2026
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
-SUMMARY:Quarterfinals: Round of 16 3 Winner vs Round of 16 4 Winner — Miami Gardens, Florida
+SUMMARY:Quarterfinals: 🇳🇴 Norway vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England — Miami Gardens, Florida
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-100@fifa-world-cup-2026
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
-SUMMARY:Quarterfinals: Round of 16 7 Winner vs Round of 16 8 Winner — Kansas City, Missouri
+SUMMARY:Quarterfinals: 🇦🇷 Argentina vs 🇨🇭 Switzerland — Kansas City, Missouri
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-101@fifa-world-cup-2026
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
-SUMMARY:Semifinals: Quarterfinal 1 Winner vs Quarterfinal 2 Winner — Arlington, Texas
+SUMMARY:Semifinals: 🇫🇷 France vs Quarterfinal 2 Winner — Arlington, Texas
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-102@fifa-world-cup-2026

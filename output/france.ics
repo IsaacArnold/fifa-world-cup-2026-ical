@@ -35,4 +35,16 @@ DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
 SUMMARY:Round of 16: 🇵🇾 Paraguay vs 🇫🇷 France — Philadelphia, Pennsylvania
 END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-097@fifa-world-cup-2026
+DTSTART:20260709T200000Z
+DTEND:20260709T220000Z
+SUMMARY:Quarterfinals: 🇫🇷 France vs 🇲🇦 Morocco — Foxborough, Massachusetts
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-101@fifa-world-cup-2026
+DTSTART:20260714T190000Z
+DTEND:20260714T210000Z
+SUMMARY:Semifinals: 🇫🇷 France vs Quarterfinal 2 Winner — Arlington, Texas
+END:VEVENT
 END:VCALENDAR

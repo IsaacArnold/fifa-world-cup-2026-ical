@@ -35,4 +35,10 @@ DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
 SUMMARY:Round of 16: 🇦🇷 Argentina vs 🇪🇬 Egypt — Atlanta, Georgia
 END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-100@fifa-world-cup-2026
+DTSTART:20260712T010000Z
+DTEND:20260712T030000Z
+SUMMARY:Quarterfinals: 🇦🇷 Argentina vs 🇨🇭 Switzerland — Kansas City, Missouri
+END:VEVENT
 END:VCALENDAR
