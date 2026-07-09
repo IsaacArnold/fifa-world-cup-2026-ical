@@ -83,6 +83,9 @@ The `isaacarnold.github.io` repo is what actually serves `isaacarnold.dev` — G
 cd /Users/isaac/web-projects
 node fifa-world-cup-2026-ical/generate.js --refresh
 cp fifa-world-cup-2026-ical/index.html isaacarnold.github.io/fifa-world-cup-2026-ical/
-cp -r fifa-world-cup-2026-ical/output isaacarnold.github.io/fifa-world-cup-2026-ical/
+# Mirror output/ so resolved placeholders are pruned — a plain `cp -r` leaves
+# stale calendars (e.g. round-of-16-*-winner.ics) behind in the deploy repo.
+rm -rf isaacarnold.github.io/fifa-world-cup-2026-ical/output
+cp -r fifa-world-cup-2026-ical/output isaacarnold.github.io/fifa-world-cup-2026-ical/output
 cd isaacarnold.github.io && git add fifa-world-cup-2026-ical/ && git commit -m "chore: refresh World Cup schedule" && git push
 ```
