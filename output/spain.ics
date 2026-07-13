@@ -41,4 +41,10 @@ DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
 SUMMARY:Quarterfinals: 🇪🇸 Spain vs 🇧🇪 Belgium — Inglewood, California
 END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-101@fifa-world-cup-2026
+DTSTART:20260714T190000Z
+DTEND:20260714T210000Z
+SUMMARY:Semifinals: 🇫🇷 France vs 🇪🇸 Spain — Arlington, Texas
+END:VEVENT
 END:VCALENDAR

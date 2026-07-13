@@ -41,4 +41,10 @@ DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
 SUMMARY:Quarterfinals: 🇦🇷 Argentina vs 🇨🇭 Switzerland — Kansas City, Missouri
 END:VEVENT
+BEGIN:VEVENT
+UID:fifa2026-match-102@fifa-world-cup-2026
+DTSTART:20260715T190000Z
+DTEND:20260715T210000Z
+SUMMARY:Semifinals: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇦🇷 Argentina — Atlanta, Georgia
+END:VEVENT
 END:VCALENDAR
